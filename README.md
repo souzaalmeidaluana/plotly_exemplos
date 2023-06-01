@@ -5,5 +5,5 @@
 
 ## Gráficos Científicos
 [Gráfico de Coordenadas Paralelas](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Grafico_coordenadas_paralelas.ipynb)
-
 [Gráfico de Radar](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Grafico_de_radar.ipynb)
+[Gráfico de Calor - Heatmap](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Heatmap.ipynb)

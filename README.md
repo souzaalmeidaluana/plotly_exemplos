@@ -5,6 +5,8 @@
 
 [Gráfico de Pizza](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Grafico%20de%20pizza.ipynb)
 
+[Diagrama de Sankey](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Diagrama_de_Sankey.ipynb)
+
 [Gráfico de Linhas - Curvas](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/CPP.ipynb)
 
 ## Gráficos Científicos

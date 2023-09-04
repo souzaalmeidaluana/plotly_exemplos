@@ -22,3 +22,4 @@
 [Histograma](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Histograma.ipynb)
 
 ## Temáticos
+[Pirâmide etária](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Piramide_Populacional.ipynb)

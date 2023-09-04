@@ -15,3 +15,6 @@
 [Gráfico de Radar](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Grafico_de_radar.ipynb)
 
 [Gráfico de Calor - Heatmap](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Heatmap.ipynb)
+
+## Gráficos Estatísticos
+[Gráfico Quantil-Quantil](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/QQ%20Plot.ipynb)

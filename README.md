@@ -18,3 +18,5 @@
 
 ## Gráficos Estatísticos
 [Gráfico Quantil-Quantil](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/QQ%20Plot.ipynb)
+
+[Histograma](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Histograma.ipynb)

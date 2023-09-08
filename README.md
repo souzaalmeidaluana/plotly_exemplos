@@ -21,5 +21,8 @@
 
 [Histograma](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Histograma.ipynb)
 
+## Superfícies
+[Superfície 3D](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Superficie_3D.ipynb)
+
 ## Temáticos
 [Pirâmide etária](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Piramide_Populacional.ipynb)

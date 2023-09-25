@@ -18,6 +18,8 @@
 
 [Gráfico de Calor - Heatmap](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Heatmap.ipynb)
 
+[Quiver](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Quiver.ipynb)
+
 ## Gráficos Estatísticos
 [Gráfico Quantil-Quantil](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/QQ%20Plot.ipynb)
 

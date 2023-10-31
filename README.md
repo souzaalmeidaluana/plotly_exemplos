@@ -34,4 +34,4 @@
 [Climograma](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Climograma.ipynb)
 
 ## Mapas
-[Gráfico de Compatimento Hexagonal](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Climograma.ipynb)
+[Gráfico de Compatimento Hexagonal](https://github.com/souzaalmeidaluana/plotly_exemplos/tree/4eddcf653627d9823e56432a7a5d5a00c712265d/Grafico%20Compartimento%20Hexagonal)

@@ -31,6 +31,9 @@
 ## Temáticos
 [Pirâmide etária](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Piramide_Populacional.ipynb)
 
+## Financeiros
+
+
 [Climograma](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Climograma.ipynb)
 
 ## Mapas

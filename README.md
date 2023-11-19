@@ -31,11 +31,10 @@
 ## Temáticos
 [Pirâmide etária](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Piramide_Populacional.ipynb)
 
-## Financeiros
-[Gráfico de medição](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Gr%C3%A1fico%20de%20Medi%C3%A7%C3%A3o.ipynb)
-
-
 [Climograma](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Climograma.ipynb)
 
 ## Mapas
 [Gráfico de Compatimento Hexagonal](https://github.com/souzaalmeidaluana/plotly_exemplos/tree/4eddcf653627d9823e56432a7a5d5a00c712265d/Grafico%20Compartimento%20Hexagonal)
+
+## Financeiros
+[Gráfico de medição](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Gr%C3%A1fico%20de%20Medi%C3%A7%C3%A3o.ipynb)

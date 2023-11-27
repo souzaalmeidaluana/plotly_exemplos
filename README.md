@@ -38,3 +38,4 @@
 
 ## Financeiros
 [Gráfico de medição](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Gr%C3%A1fico%20de%20Medi%C3%A7%C3%A3o.ipynb)
+[Gráfico de Funil](https://github.com/souzaalmeidaluana/plotly_exemplos/blob/main/Gr%C3%A1fico%20de%20Funil.ipynb)
